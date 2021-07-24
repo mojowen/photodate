@@ -1,0 +1,23 @@
+{
+  "name": "photodate",
+  "version": "1.0.0",
+  "description": "Lib for adding exif data to scanned photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojowen/photodate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojowen/photodate/issues"
+  },
+  "homepage": "https://github.com/mojowen/photodate#readme",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "typescript": "^4.3.5"
+  }
+}
